@@ -1,6 +1,6 @@
 
 ### INSTRUCCIONES
-- Paso 1: Descargar y vincular Fuentes
-- Paso 2: Insetar archivo RESET
-- Paso 3: Declarar Variables
-- Paso 4: Asignar variables en Globals
+- Paso 1: Descargar y transformar Fuentes.
+- Paso 2: Insetar archivo RESET.
+- Paso 3: Declarar variables Globales.
+- Paso 4: Importar variables Globales.

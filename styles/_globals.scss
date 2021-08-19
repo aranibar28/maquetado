@@ -1,18 +1,17 @@
-*{
-    box-sizing: border-box;
+* {
+  box-sizing: border-box;
 }
 
-html{
-    font-size: map-get($fonts-size, base);
+html {
+  font-size: map-get($fonts-size, base);
 }
 
-body{
-    font-size: map-get($fonts-size, global);
-    font-family: map-get($fonts-family, global);
-    color: map-get($colors, bluedark);
+body {
+  font-size: map-get($fonts-size, global);
+  font-family: map-get($fonts-family, global);
+  color: map-get($colors, bluedark);
 }
 
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
-
