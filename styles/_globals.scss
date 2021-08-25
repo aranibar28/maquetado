@@ -9,9 +9,10 @@ html {
 body {
   font-size: map-get($fonts-size, global);
   font-family: map-get($fonts-family, global);
-  color: map-get($colors, bluedark);
+  color: map-get($colors, primary);
 }
 
 a {
   text-decoration: none;
+  color: black;
 }
